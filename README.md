@@ -1,9 +1,8 @@
 ## Bem-vindo(a) ao perfil de Boris Lewis ! 😁
 
- <div>
-   <a href="https://github.com/borislewissc">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=borislewissc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borislewissc&layout=compact&langs_count=6&theme=tokyonight"/>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=borislewissc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borislewissc&layout=compact&langs_count=6&theme=tokyonight&v=1" alt="Linguagens mais usadas" />
 </div>
     
 <div style="display: inline_block"><br>
