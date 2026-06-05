@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Boris Lewis ! 😁
+## Welcome to Boris Lewis's profile! ☁️
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=borislewissc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
