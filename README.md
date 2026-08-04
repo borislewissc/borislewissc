@@ -2,8 +2,7 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=borislewissc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=borislewissc&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=borislewissc&langs_count=6&theme=tokyonight&cache_seconds=0" alt="Linguagens mais usadas" />
 </div>
  
 <div align="center"><br>
